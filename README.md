@@ -79,3 +79,4 @@ License: Simplified BSD License (see [LICENSE](LICENSE)).
 # go-zabbix-api
 # go-zabbix-api
 # go-zabbix-api
+# go-zabbix-api
